@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+
+  <title> TAKEHOME2 </title>
+
+  <head>
+    <style>
+      .calculus {
+        display: flex;
+      }	
+      .calc_pair {
+        display: flex;
+      }
+      .derivative {
+        background-color: #32CD32;
+        display: flex;
+        width: 2100px;
+	margin: 20px;
+      }
+      .integral {
+        background-color: #32CD32;
+        flex-grow: 1;
+	margin: 20px;
+      }
+      .vector_calc {
+	background-color: #FF0000;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <div class="calculus">
+      <p><img src="http://homepages.math.uic.edu/~adrovic/mcs275-S2019/L32/stock.jpg" alt="stock image" style="float:left;width:1000px;height:300px;">
+      Calculus (from Latin calculus, literally 'small pebble', used for counting and calculations, as on an abacus)[1] is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. It has two major branches, differential calculus (concerning instantaneous rates of change and slopes of curves),[2] and integral calculus (concerning accumulation of quantities and the areas under and between curves).[3] These two branches are related to each other by the fundamental theorem of calculus. Both branches make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit. </p>
+    </div>
+
+    <hr>
+
+    <div class="calc_pair">
+      <div class="derivative">
+      The derivative of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances.
+      </div>
+
+      <div class="integral">
+In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. Integration is one of the two main operations of calculus, with its inverse operation, differentiation, being the other. Given a function f of a real variable x and an interval [a, b] of the real line, the definite integral.
+      </div>
+    </div>
+
+    <div class = "vector_calc"> Vector calculus, or vector analysis, is a branch of mathematics concerned with differentiation and integration of vector fields, primarily in 3-dimensional Euclidean space {\displaystyle \mathbb {R} ^{3}.} \mathbb {R} ^{3}. The term "vector calculus" is sometimes used as a synonym for the broader subject of multivariable calculus, which includes vector calculus as well as partial differentiation and multiple integration. Vector calculus plays an important role in differential geometry and in the study of partial differential equations. It is used extensively in physics and engineering, especially in the description of electromagnetic fields, gravitational fields and fluid flow. 
+    </div>
+  </body>
+
+</html>

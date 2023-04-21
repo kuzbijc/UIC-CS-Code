@@ -1,0 +1,3 @@
+html is not a programming language!
+index.html is root file of home page
+
