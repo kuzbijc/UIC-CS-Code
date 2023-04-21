@@ -1,0 +1,18 @@
+sept24
+
+with open('file name', '...') as f:
+
+....'r'
+r - read the file
+
+.....'w'
+w - write to file, destroys content?
+
+.....'a'
+a - append, leaves existing content unaffected
+
+.....'a+'
+a+ - append and read
+
+.....'r+'
+r+ - reading and writing, destroys content?
